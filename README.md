@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhaharini</h1>
 <h3 align="center">🌱 Fresher | DevOps | Full-Stack | DSA Learner | Dreaming Big 💼</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhaharini04" alt="subhaharini04" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/subha harini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="subha harini" height="30" width="40" /></a>
