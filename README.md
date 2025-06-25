@@ -20,7 +20,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/subhaharini s" target="_blank">
+  <a href="https://www.linkedin.com/in/subha-harini" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.codechef.com/users/subhaharini07" target="_blank">
