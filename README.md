@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 I'm a recent graduate passionate about **Full-Stack Development** and **DevOps**.
-- 🌱 Currently learning **Docker, Kubernetes**, and sharpening my **Data Structures & Algorithms** skills.
+- 🌱 Currently learning **Data Structures & Algorithms**, and sharpening my **MERN- Stack** skills.
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Java, and Git**.
 - 🚀 Eager to contribute to **Open Source Projects** and **collaborative coding challenges**.
 - 🎯 Always curious and aiming to **grow a little every day**.
